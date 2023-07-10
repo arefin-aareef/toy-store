@@ -1,0 +1,39 @@
+[
+    {
+      "picture": "car1.jpg",
+      "name": "Speedster",
+      "price": 19.99,
+      "rating": 4.5
+    },
+    {
+      "picture": "car2.jpg",
+      "name": "Turbo Blaster",
+      "price": 24.99,
+      "rating": 4.2
+    },
+    {
+      "picture": "car3.jpg",
+      "name": "Mega Racer",
+      "price": 29.99,
+      "rating": 4.8
+    },
+    {
+      "picture": "car4.jpg",
+      "name": "Xtreme Drifter",
+      "price": 34.99,
+      "rating": 4.6
+    },
+    {
+      "picture": "car5.jpg",
+      "name": "Super Speedster",
+      "price": 22.99,
+      "rating": 4.4
+    },
+    {
+      "picture": "car6.jpg",
+      "name": "Rapid Runner",
+      "price": 26.99,
+      "rating": 4.7
+    }
+  ]
+  
